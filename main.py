@@ -64,5 +64,4 @@ if __name__ == '__main__':
                 query = query.replace(key, value)
 
             # print(query)
-
-        nerdgraph_createuser(user_key, query)
+          nerdgraph_createuser(user_key, query)
